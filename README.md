@@ -1,6 +1,9 @@
 # DistributedAgriculturalSensorNetwork
 This is a repository for our Senior Design proposal for a distributed sensor network and easy-to-use UI to make improved decisions based upon local microclimate information.
 > a collection of pre-proposal ideas and documents.
+
+![NetworkDiagram1](SensorNetworking.png)
+
 ## Installation
 ```
 git clone https://github.com/michaelpeterswa/DistributedAgriculturalSensorNetwork.git
